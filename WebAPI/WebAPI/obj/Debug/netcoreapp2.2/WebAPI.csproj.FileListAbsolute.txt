@@ -12,3 +12,21 @@ F:\profession\CodAffection\Angular 8\Inline Table Editing in Angular\project\Web
 F:\profession\CodAffection\Angular 8\Inline Table Editing in Angular\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
 F:\profession\CodAffection\Angular 8\Inline Table Editing in Angular\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
 F:\profession\CodAffection\Angular 8\Inline Table Editing in Angular\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+E:\Users\Fazrin\Angular-Inline-Editing-with-Asp.Net-Core-Web-API\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\Users\Fazrin\Angular-Inline-Editing-with-Asp.Net-Core-Web-API\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Users\Fazrin\Angular-Inline-Editing-with-Asp.Net-Core-Web-API\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+E:\Users\Fazrin\Angular-Inline-Editing-with-Asp.Net-Core-Web-API\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+E:\Users\Fazrin\Angular-Inline-Editing-with-Asp.Net-Core-Web-API\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+E:\Users\Fazrin\Angular-Inline-Editing-with-Asp.Net-Core-Web-API\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+E:\Users\Fazrin\Angular-Inline-Editing-with-Asp.Net-Core-Web-API\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+E:\Users\Fazrin\Angular-Inline-Editing-with-Asp.Net-Core-Web-API\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.AssemblyReference.cache
+E:\Users\Fazrin\Angular-Inline-Editing-with-Asp.Net-Core-Web-API\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Fazrin\Angular-Inline-Editing-with-Asp.Net-Core-Web-API\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+E:\Users\Fazrin\Angular-Inline-Editing-with-Asp.Net-Core-Web-API\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+E:\Users\Fazrin\Angular-Inline-Editing-with-Asp.Net-Core-Web-API\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+E:\Users\Fazrin\Angular-Inline-Editing-with-Asp.Net-Core-Web-API\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+E:\Users\Fazrin\Angular-Inline-Editing-with-Asp.Net-Core-Web-API\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+E:\Users\Fazrin\Angular-Inline-Editing-with-Asp.Net-Core-Web-API\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+E:\Users\Fazrin\Angular-Inline-Editing-with-Asp.Net-Core-Web-API\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+E:\Users\Fazrin\Angular-Inline-Editing-with-Asp.Net-Core-Web-API\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+E:\Users\Fazrin\Angular-Inline-Editing-with-Asp.Net-Core-Web-API\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.genruntimeconfig.cache
